@@ -1,3 +1,5 @@
 *.npz
 *.pkl
 .venv/
+*.csv
+__pycache__
